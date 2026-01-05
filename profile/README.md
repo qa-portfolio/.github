@@ -1,11 +1,6 @@
-## Hi there 👋
+## Bienvenue 👋
 
 
-**Here are some ideas to get you started:**
+🧑‍💻 Ce portfolio présente une sélection de mes projets, outils maîtrisés (comme Cypress, Jira, Playwright) et approches de test, illustrant ma capacité à assurer la fiabilité, la sécurité et la performance des applications. Mon parcours m'a permis de travailler dans des environnements variés, agiles et exigeants, où j'ai développé une rigueur méthodique, un esprit d'analyse aigu et une forte capacité à identifier les anomalies pour garantir une expérience utilisateur optimale.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-
+Bonne visite ! 😄
